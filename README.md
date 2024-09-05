@@ -5,15 +5,15 @@ Soy un desarrollador web con especial interes en Ruby y Python. Cuento con exper
 
 About Me
 
-Hi there! I'm [Your Name], a [Your Profession or Field] based in [Your Location]. I'm passionate about [Your Interests or Areas of Expertise].
+Hi there! I'm Miguel, a selftaught web programmer based in Chile. I'm interested in web development: python, ruby, react, next.js, ruby on rails and python reflex.
 
 I'm here to share my projects, learn from others, and contribute to the open-source community. Feel free to explore my repositories and reach out if you have any questions.
 
 Key Skills:
 
-[Skill 1]
-[Skill 2]
-[Skill 3]
+[Ruby on Rails]
+[Python Reflex]
+[React-Next.js]
 ...
 Projects:
 
@@ -23,5 +23,5 @@ Projects:
 Links:
 
 [https://presentacionmr.vercel.app/]
-[LinkedIn]
+[https://www.linkedin.com/in/miguel-rivas-6839b421/]
 [Twitter]
