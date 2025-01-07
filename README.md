@@ -38,6 +38,8 @@ I am Miguel, I studied administration and politics, but I have always wanted to 
 
 ☑ [Html, Css, Bootstrap] - [Landing page for a travel agency] https://mrivaslezama.github.io/viajeschile/
 
+☑ [Reflex, Tailwind-css] - [Landing page furniture making small business]https://mrivaslezama.github.io/autanas/
+
 ☑ [React - python / reflex] - [Personal landing page] https://presentacionmr.vercel.app/
 
 
