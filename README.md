@@ -1,10 +1,10 @@
 # Hola!
 
-Soy Miguel, estudie administración y política, pero siempre he querido aprender programación, al fin se me dio la oportunidad con algunos cursos de desarrollo web con Ruby on Rails, por mi cuenta he estudiado Python (reflex) y (selenium). Experiencia en tecnologías html, css, javascript, bootstrap, tailwind-css, ruby on rails, jekyll, astro web y vite.
+Soy Miguel, estudie administración y política, pero siempre quize aprender programación, al fin se me dio la oportunidad con algunos cursos de desarrollo web con Ruby on Rails, por mi cuenta he estudiado Python (reflex) y (selenium). Experiencia en tecnologías html, css, javascript, bootstrap, tailwind-css, ruby on rails, jekyll, astro web y vite.
 - 📫 Contactame, mrivaslezama@gmail.com ...
 
 # About Me
-I am Miguel, I studied administration and politics, but I have always wanted to learn programming, I was finally given the opportunity with some web development courses with Ruby on Rails, on my own I have studied Python (reflex) and (selenium). Experience in html, css, javascript, bootstrap, tailwind-css, ruby ​​on rails, jekyll, astro web and vite technologies.
+I am Miguel, I studied administration and politics, but I always wanted to learn programming, I was finally given the opportunity with some web development courses with Ruby on Rails, on my own I have studied Python (reflex) and (selenium). Experience in html, css, javascript, bootstrap, tailwind-css, ruby ​​on rails, jekyll, astro web and vite technologies.
 - 📫 Reach me at, mrivaslezama@gmail.com ...
 
 
